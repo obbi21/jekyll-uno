@@ -1,8 +1,10 @@
 # Site settings
 title: Y.A Obbi Ikhsan
 description: 'Mahasiswa Sistem Informasi'
+
 description: 'Fakultas Sains dan Teknologi'
-description:  'Universitas Islam Negeri Sultan Syarif Kasim Riau'
+
+description: 'Universitas Islam Negeri Sultan Syarif Kasim Riau'
 url: 'http://obbi21.github.io'
 baseurl: '/obbi21.github.io'
 # google_analytics: 'UA-XXXXXX-X'
