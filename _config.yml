@@ -7,12 +7,12 @@ baseurl: '/obbi21.github.io'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Obbi'
+  email: yaobbiikhsan.gmail.com
+  twitter_username: https://twitter.com/login?lang=id
+  facebook_username: https://web.facebook.com/Bhy.Anareng
+  github_username:  https://github.com/obbi21
+  linkedin_username:  https://www.linkedin.com/in/y-a-obbi-ikhsan-201486155/
 
 defaults:
   -
