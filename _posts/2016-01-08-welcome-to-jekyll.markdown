@@ -4,7 +4,7 @@ date:   2017-10-24 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-Hallo, aku berasal dari Kota Rengat Kab. Indragiri Hulu Riau Indonesia. Sekarang aku masih menjalani pendidikan di salah satu Universitas ternama di Riau yaitu UIN SUSKA RIAU program studi Sistem Informasi. Aku memiliki hobi di bidang usaha (bisnis), photography, videography, makan, nge-gaming, dan lain-lain yang masih positif bagiku. Di dunia ini aku hanya ingin mencari teman yang dapat berkolaborasi untuk di masa depan nantinya dan membantu orang lain - itulah jalan ninja ku (yang hobi nonton anime ini :D). Masih banyak lagi tentangku yang belum diceritakan (silahkan datangi orangnya saja hehe :D).
+Assalamualaikum, aku berasal dari Kota Rengat Kab. Indragiri Hulu Riau Indonesia. Sekarang aku masih menjalani pendidikan di salah satu Universitas ternama di Riau yaitu UIN SUSKA RIAU program studi Sistem Informasi. Aku memiliki hobi di bidang usaha (bisnis), photography, videography, makan, nge-gaming, dan lain-lain yang masih positif bagiku. Di dunia ini aku hanya ingin mencari teman yang dapat berkolaborasi untuk di masa depan nantinya dan membantu orang lain - itulah jalan ninja ku (yang hobi nonton anime ini :D). Masih banyak lagi tentangku yang belum diceritakan (silahkan datangi orangnya saja hehe :D).
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
